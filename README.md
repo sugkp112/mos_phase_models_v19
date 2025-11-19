@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645050.svg)](https://doi.org/10.5281/zenodo.17645050)
+
 # mos_phase_models_v19
 
 This repository contains the Python implementation of the mosquito navigation phase model used in the manuscript.  
