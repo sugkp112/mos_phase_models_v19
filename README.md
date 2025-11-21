@@ -1,17 +1,58 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17645050.svg)](https://doi.org/10.5281/zenodo.17645050)
 
-# mos_phase_models_v19
+mos_phase_models_v19
 
-This repository contains the Python implementation of the mosquito navigation phase model used in the manuscript.  
-The code generates all simulations and figures (wind, vortex, thermal decoys, and combined phase diagrams).
+This repository contains the Python implementation of a mosquito navigation phase model.
+The script produces all simulations and figure outputs used for model exploration, including:
 
-## Files
-- **mos_phase_models_v19.py** — main and only script (simulation + figure generation)
+Wind perturbation effects
 
-## Requirements
-Python 3.10+  
-Dependencies: numpy, matplotlib
+Vortex-field dynamics
 
-## Usage
-Run all simulations and reproduce all figures:
+Thermal/CO₂ decoy interactions
 
+Combined multi-factor phase behavior
+
+Repository Contents
+
+mos_phase_models_v19.py
+Single integrated script for running simulations and generating all figures.
+
+Requirements
+
+Python 3.10+
+
+Dependencies:
+
+numpy
+
+matplotlib
+
+Install required packages:
+
+pip install numpy matplotlib
+
+Usage
+
+Run all simulations and generate the full set of figures:
+
+python mos_phase_models_v19.py
+
+
+Output files will be saved automatically in the working directory.
+
+Reproducibility
+
+The script uses a fixed random seed to ensure repeatable simulation results.
+All parameters and model assumptions are defined within the script for easy verification or modification.
+
+Contact
+
+For questions or collaboration inquiries, please contact:
+
+Ziru Jiang
+📧 ziru.jiang@gmail.com
+
+License
+
+To be specified upon formal release.
