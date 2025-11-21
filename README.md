@@ -39,7 +39,7 @@ All parameters and model assumptions are defined within the script for easy veri
 
 For questions or collaboration inquiries, please contact:
 
-**Ziru Jiang**  
+**Zi-Ru Jiang**  
 📧 **ziru.jiang@gmail.com**
 
 ---
