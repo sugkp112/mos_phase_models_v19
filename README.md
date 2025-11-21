@@ -26,7 +26,24 @@ Single integrated script for running simulations and generating all figures.
   - `numpy`
   - `matplotlib`
 
-Install required packages:
+---
 
-```bash
-pip install numpy matplotlib
+## Reproducibility
+
+The script uses a fixed random seed to ensure repeatable simulation results.  
+All parameters and model assumptions are defined within the script for easy verification or modification.
+
+---
+
+## Contact
+
+For questions or collaboration inquiries, please contact:
+
+**Ziru Jiang**  
+📧 **ziru.jiang@gmail.com**
+
+---
+
+## License
+
+To be specified upon formal release.
